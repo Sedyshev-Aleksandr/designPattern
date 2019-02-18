@@ -1,4 +1,6 @@
 ### Intellij ###
 *.iml
+*.pdf
+*.png
 .idea/
 out/
